@@ -1,0 +1,3 @@
+call process.py then process2.py
+
+try tweaking resolution in process2.py to change the size of rectangles
